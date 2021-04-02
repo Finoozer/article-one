@@ -1,11 +1,5 @@
 # Getting Your Sh*t Together
 
-
-
-## Table of contents
-
-[TOC]
-
 ## Copyright
 
 This article is licensed under the [MIT License](https://github.com/Finoozer/article-one/blob/master/LICENSE.md).
@@ -19,6 +13,10 @@ Bear in mind, that commandments below are not rules by definition; they are meta
 ## Keywords
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
+
+------
+
+
 
 ## Commandments
 
@@ -195,7 +193,14 @@ If you have experience with programming, this article can be summarized very qui
 
    Once you decide to set a principle, change it only if that's the last option.
 
+------
+
+
+
 ## Endnotes
 
+The reasoning behind the commandments above, is to give a path and sense to your life. It's all about being efficient. In scientific fields, they describe this logic as time complexity (big O notation). It serves as a unit of time spent per iteration of an algorithm. The goal of programmers is to make algorithms with low time complexity. This is done by making as few extra steps as possible, so that the computer focuses only on the issue it's trying to solve, not repeating previously solved tasks. You can apply the same logic to humans. Why waste time thinking about tasks, that you have already done in the past?
 
+I do think challenging yourself mentally is vital for your health. Executing mundane tasks robotically, gives you the opportunity to think about more important stuff. Pick something that really excites you and find sub-topics to think about during the day. Best option is to have some kind of problem solving tasks. Choose one that is hard enough to occupy your mind for a bit, but not so hard that it could deter you from finishing it.
 
+Lastly, you got to have a filler task. Activities, which are fun, quick to start, quick to end and can be done any time of the day. This ensures, you have enough fun to not procrastinate or leaving the regime completely. Filler tasks are i.e. watching favorite TV shows, sports, texting with your friends, or in my case - PC gaming. 

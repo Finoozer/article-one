@@ -1,4 +1,4 @@
-# Getting Your Sh*t Together
+# Refactoring your life
 
 ## Copyright
 
@@ -6,9 +6,13 @@ This article is licensed under the [MIT License](https://github.com/Finoozer/art
 
 ## Abstract
 
-Let's get one thing straight. This is not a how-to-be-a-millionaire-in-one-week type of book. All this article is, is a summary of values and recommendations, which I observed as being beneficial to my workflow and life in general. It's up to you, if you choose to implement all of the advice or just a portion of it.
+In programming, a well written code, means to follow conventions, the use of time efficient algorithms and to structure the code properly. These rules can be converted into real life. This article provides examples and explanations of how it can and why it should be done. 
 
-Bear in mind, that commandments below are not rules by definition; they are meta-rules, that act as a platform for you to set your own rules. 
+## Introduction
+
+Bear in mind, that this is not a how-to-be-a-millionaire-in-a-week type of book. It is a summary of values and recommendations, which I observed as being beneficial to my workflow and life in general. Some of the commandments below are not rules by definition; they are meta-rules, that act as a platform for you to set your own rules. It's up to you to figure out how and if you implement them.
+
+If I had to sum up the core concept of *Refactoring your life* in one sentence, it would be "*think, before you do*". It's so cliché, yet a lot of people don't do it. 
 
 ## Keywords
 
@@ -23,7 +27,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 1. Repetitive tasks must be converted into routines
 2. Routines should be improved each iteration
 3. Non-routine tasks must be recursively planned ahead
-4. Non-routine tasks must be executed as effectively as possible
+4. Non-routine tasks must be executed as efficiently as possible
 5. Arguments dictate principle
 6. Action must be based on principle
 7. Principle should be changed only rarely
@@ -53,15 +57,15 @@ If you have experience with programming, this article can be summarized very qui
 
    **Example:**
 
-   Let's take showering as an example. Do you brush your teeth before or after you shower? Is the towel always on the same spot (it should)? Do you start with hot water or cold water first? How exactly do you proceed to shower? Do you step out of the shower with the left or right foot? 
+   Let's take showering as an example. Do you brush your teeth before or after you shower? Is the towel always on the same spot (it should be)? Do you start with hot water or cold water first? How exactly do you proceed to shower? Do you step out of the shower with the left or right foot? 
 
    If the task is a routine, you will have no issue answering all of those questions.
 
    **How:**
 
-   When you first start to implementing routines, you have to be very aware of what you are doing in the first few iterations. Set the steps while doing the task; concentrate on how you do stuff and if it's effective. Remember the steps for upcoming iterations. Do not back down from set steps. 
+   When you first start to implementing routines, you have to be very aware of what you are doing in the first few iterations. Set the steps while doing the task; concentrate on how you do stuff and if it's efficient. Remember the steps for upcoming iterations. Do not back down from set steps, except for improvements!
 
-   After about 5 iterations, you will realize that you have done the whole task without a single thought interruption. Ergo, you won't give any processing power to the task at hand.  
+   After about 5 iterations, you will realize that you have done the whole task without a single thought interruption. Ergo, you won't give any processing power to the task at hand.
 
    
 
@@ -79,7 +83,7 @@ If you have experience with programming, this article can be summarized very qui
 
    **How:**
 
-   This is one of the things I am unhappy with. I would like to give you a manual on how to enable your always-look-for-things-to-improve mindset, but I don't have one. You have to learn this by yourself. Try to look for loopholes/errors in everything and you will eventually do it automatically. 
+   I would like to give you a manual on how to enable your always-look-for-things-to-improve mindset, but I don't have one. You have to learn this by yourself. Try to look for loopholes/errors in everything and you will eventually do it automatically. 
 
    
 
@@ -89,7 +93,7 @@ If you have experience with programming, this article can be summarized very qui
 
    **Why:**
 
-   Planning every step of a task and then connecting more tasks together will make it much easier to execute. It can also lead to less errors, since you are not splitting the brain power between planning and execution, at the same time.
+   Planning every step of a task and then connecting more tasks together will make it much easier to execute. It can also lead to less errors, since you are not splitting the brain power between planning and executing, at the same time.
 
    **Example:**
 
@@ -101,15 +105,13 @@ If you have experience with programming, this article can be summarized very qui
 
    Parents - 45 min; Friends - circa 2 hours; Work - 3 hours; School - 6 hours. Thing about how you will approach each task. Will you first take the trash out or go to the store? Where exactly do need to go in that store? How long is the document your boss gave you?
 
-   Now cut down the time for each task by about 30%. You will have it back in the next commandment, don't worry.
-
    Start doing the tasks in order. Since you have already planned all of the steps, all you need to do is execute them. Do them as fast as possible. 
 
    
 
-4. **Non-routine tasks must be executed as effectively as possible**
+4. **Non-routine tasks must be executed as efficiently as possible**
 
-     Effectiveness is basically the concept of this whole article. Being effective does not mean half-assing tasks in favor of getting things done quickly. Requirements always come first!
+     Efficiency is basically the concept of this whole article. Being efficient does not mean half-assing tasks in favor of getting things done quickly. Effectiveness, before efficiency - requirements always come first.
 
      **Why:**
 
@@ -117,17 +119,17 @@ If you have experience with programming, this article can be summarized very qui
 
      **Example:**
 
-     You have to hand in seminar work next week. It's supposed to be at least 5 pages long. Do you really need those 6 hours? And do you need to be spread out like peanut butter across the whole week?
+     You have to hand in seminar work next week. It's supposed to be at least 5 pages long. Do you really need those 6 hours? And do you need them spread out like peanut butter across the whole week?
 
      **How:**
 
-     Cases like this can make use of *Last Day-* or *Last Minute Effect*. Doing tasks exactly on time or the day before due day, puts stress on you, which in turn results in drive. 
+     Cases like this can make use of the *Last Day-* or *Last Minute Effect*. Doing tasks exactly on time or the day before due day, puts stress on you, which in turn results in drive.
 
      Some people might say they do a better job, when they have enough time, compared to stress-driven execution of tasks. That can be true to some extend, but it has serious impact on what they can consider, when choosing work field or even what post in that work they can hold.
 
-     Learning to work under stress is beneficial for two kinds of things. First, is doing one-off tasks, for which you did not receive the "needed" time, but still have to be done in time. Secondly, for dealing with stress in general. 
+     Learning to work under stress is beneficial for two kinds of things. First, is doing one-off tasks, for which you did not receive the "needed" time, but they still have to be done in time. Secondly, for dealing with stress in general. 
 
-     Stress can be generated by a lot of external forces, which you won't be able to mitigate. You should intentionally put yourself into stressful situations with everyday tasks, so that you can use stress as a driving mechanism, not an inhibitor.
+     Stress can be generated by a lot of external forces, which you won't be able to avoid. You should intentionally put yourself into stressful situations with everyday tasks, so that you can use stress as a driving mechanism, not an inhibitor.
 
 5. **Arguments dictate principle**
 
@@ -137,21 +139,21 @@ If you have experience with programming, this article can be summarized very qui
 
    * Subjective principles
      * Based on prior experience, feeling or inherited from other conventions
-     * Arguments will be inherently on the subjective side
+     * Arguments will be mostly on the subjective side
      * Usually used on actions/opinions, which do not have an objective answer 
-     * I.e. "I always buy socks from xxx company, their quality/price ration is great and they are very comfortable" - that does not mean you hate every other socks manufacturer, but you have decided to stick with the xxx company
+     * Example: "I always buy socks from xxx company, their quality/price ratio is great and they are very comfortable" - that does not mean you hate every other socks manufacturer, but you have decided to stick with the xxx company
      * Or "I always hold the doors for others" - they are able to open the doors themselves, but you have inherited this principle from the conventional man etiquette
    * Logical principles
      * Based purely on logic
      * Arguments must be objective
      * Used on actions/opinions, that can have objective answer
      * Either Kantianism or Utilitarianism will apply
-     * I.e. "Effort doesn't count, you do or do not" - Somebody failed to deliver a promise and you don't care that they were *trying*, as *trying* does not yield results
+     * Example: "Effort doesn't count, you do or do not" - Somebody failed to deliver a promise and you don't care that they were *trying*, as *trying* does not yield results
      * Or "I always use bleach to clean the toilet" - You know about the risks of using bleach (you took precautions to mitigate negative impacts on your health), but you also know it's more effective that alcohol based cleaners
 
    **Why:**
 
-   Doing tasks and actions impulsively yields errors.
+   Doing tasks impulsively results in errors. Having opinions without logical basis results in inconsistency and false judgement.
 
    **Example:**
 
@@ -179,11 +181,11 @@ If you have experience with programming, this article can be summarized very qui
 
 7. **Principle should be changed only rarely**
 
-   Standing on principle gives you an upper hand, but this can change very quickly, if you say A today and B tomorrow. This can be also cased by lack of sincerity in your thought process. Some people call this stubbornness. Don't take me wrong, there is always a limit to obeying your principles; but if you know that the same people who call you stubborn, are indecisive and contradict themselves often, you should let them know how stupid they sound. 
+   Standing on principle gives you an upper hand, but this can change very quickly, if you say "*A*" today and "*B*" tomorrow. This can be also cased by lack of sincerity in your thought process. Some people call this stubbornness. Don't take me wrong, there is always a limit to obeying your principles; but if you know that the same people who call you stubborn, are indecisive and contradict themselves often, you should let them know how stupid they sound. 
 
    **Why:**
 
-   Nobody will respect your opinion or the rest of these commandments, if you change your opinion daily. 
+   Nobody will respect your opinion or the rest of these commandments, if you change your principles daily. 
 
    **Example:**
 
@@ -191,7 +193,7 @@ If you have experience with programming, this article can be summarized very qui
 
    **How:**
 
-   Once you decide to set a principle, change it only if that's the last option.
+   Once you decide to set a principle, change it only if it's the last option.
 
 ------
 
@@ -199,8 +201,10 @@ If you have experience with programming, this article can be summarized very qui
 
 ## Endnotes
 
-The reasoning behind the commandments above, is to give a path and sense to your life. It's all about being efficient. In scientific fields, they describe this logic as time complexity (big O notation). It serves as a unit of time spent per iteration of an algorithm. The goal of programmers is to make algorithms with low time complexity. This is done by making as few extra steps as possible, so that the computer focuses only on the issue it's trying to solve, not repeating previously solved tasks. You can apply the same logic to humans. Why waste time thinking about tasks, that you have already done in the past?
+Contrary to popular belief, rules are good. Rules are even better, if you are the one to set them. 
 
-I do think challenging yourself mentally is vital for your health. Executing mundane tasks robotically, gives you the opportunity to think about more important stuff. Pick something that really excites you and find sub-topics to think about during the day. Best option is to have some kind of problem solving tasks. Choose one that is hard enough to occupy your mind for a bit, but not so hard that it could deter you from finishing it.
+It's all about being efficient. In scientific fields, they describe this logic as time complexity (big O notation). It serves as a unit of time spent per iteration of an algorithm. The goal of programmers is to make algorithms with low time complexity. This is done by making as few extra steps as possible, so that the computer focuses only on the issue it's trying to solve, not repeating previously solved tasks. You can apply the same logic to humans. Why waste time thinking about tasks, that you have already done in the past?
 
-Lastly, you got to have a filler task. Activities, which are fun, quick to start, quick to end and can be done any time of the day. This ensures, you have enough fun to not procrastinate or leaving the regime completely. Filler tasks are i.e. watching favorite TV shows, sports, texting with your friends, or in my case - PC gaming. 
+I do think challenging yourself mentally is vital for your health. Executing mundane tasks robotically, gives you the opportunity to think about more important stuff. Pick something that really excites you and find a sub-topic to think about during the day. Best option is to have some kind of a problem solving task. Choose one that is hard enough to occupy your mind for a bit, but not so hard that it could deter you from finishing it.
+
+Lastly, you got to have a filler task. Activities, which are fun, quick to start, quick to end and can be done any time of the day. This ensures, you have enough fun to not procrastinate or leaving the regime completely. Filler tasks are for example: watching favorite TV shows, sports, texting with your friends, or in my case - PC gaming and watching Youtube.

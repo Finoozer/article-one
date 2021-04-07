@@ -4,11 +4,15 @@
 
 This article is licensed under the [MIT License](https://github.com/Finoozer/article-one/blob/master/LICENSE.md). 
 
-### Abstract 
+### Abstract
 
 In programming, a well written code, means following conventions, the use of time efficient algorithms and structuring the code properly. These rules can be converted into real life. This article provides examples and explanations of how it can and why it should be done. 
 
-### Introduction 
+### Acknowledgements
+
+Thanks to Helen Johnson for proofreading the article.
+
+### Introduction
 
 Bear in mind, that this is not a how-to-be-a-millionaire-in-a-week type of book. It is a summary of values and recommendations which I find beneficial to my workflow and life in general. Some of the commandments below are not rules by definition; they are meta-rules that act as a platform for you to set your own rules. It is up to you to figure out how and if you implement them. 
 

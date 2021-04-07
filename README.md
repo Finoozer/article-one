@@ -2,7 +2,7 @@
 
 ### Copyright 
 
-This article is licensed under the MIT License. 
+This article is licensed under the [MIT License](https://github.com/Finoozer/article-one/blob/master/LICENSE.md). 
 
 ### Abstract 
 
@@ -16,7 +16,7 @@ If I had to sum up the core concept of *Refactoring your life* in one sentence, 
 
 ### Keywords
 
-The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119. 
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119). 
 
 ### Commandments 
 

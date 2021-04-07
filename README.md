@@ -18,6 +18,10 @@ If I had to sum up the core concept of *Refactoring your life* in one sentence, 
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119). 
 
+------
+
+
+
 ### Commandments 
 
 1. Repetitive tasks must be converted into routines 
@@ -185,6 +189,10 @@ If you have experience with programming, this article can be summarized very qui
    **How:** 
 
    Once you decide to set a principle, change it only if it's the last option. 
+
+------
+
+
 
 ### Endnotes 
 
